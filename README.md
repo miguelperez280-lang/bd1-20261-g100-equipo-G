@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PascualBravo.svg/960px-PascualBravo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Logo Pascual Bravo" width="280"/>
+  <img src="blob:https://gemini.google.com/b1c4c376-5a46-4bff-b68d-b154fa8f8172" alt="Logo Pascual Bravo" width="280"/>
 
   # INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
   ### Programa: Tecnología en Desarrollo de Software  

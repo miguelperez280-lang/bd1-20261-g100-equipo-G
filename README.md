@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pascualbravo.edu.co/wp-content/uploads/2020/01/escudo-pascual-bravo_Mesa-de-trabajo-1.jpg" alt="Logo Pascual Bravo" width="280"/>
+  <img src="[https://pascualbravo.edu.co/wp-content/uploads/2020/01/escudo-pascual-bravo_Mesa-de-trabajo-1.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFD58FS1e4u1L1lpCdT9J1vkbDl75UPqLtBGzhe6WAg&s=10)" alt="Logo Pascual Bravo" width="280"/>
 
   # INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
   ### Programa: Tecnología en Desarrollo de Software  

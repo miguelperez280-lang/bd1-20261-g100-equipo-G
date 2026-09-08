@@ -1,10 +1,14 @@
-# INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
-### Programa: Tecnología en Desarrollo de Software  
-### Curso: Bases de Datos I (G052)  
+<div align="center">
+  <img src="https://www.pascualbravo.edu.co/wp-content/uploads/2021/03/logo-pascual-bravo.png" alt="Logo Pascual Bravo" width="280"/>
 
-**Docente:** Jaime E. Soto U.  
-**Equipo:** Grupo G  
+  # INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
+  ### Programa: Tecnología en Desarrollo de Software  
+  ### Curso: Bases de Datos I (SD1006) — Semestre 2026-1  
 
+  **Proyecto de Aula:** Sistema de Gestión y Modelado de Datos  
+  **Docente:** Jaime E. Soto U.  
+  **Grupo de Estudiantes:** Grupo G  
+</div>
 ---
 
 ## Propósito del Repositorio

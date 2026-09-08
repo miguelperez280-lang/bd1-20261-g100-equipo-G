@@ -21,7 +21,7 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
 
 ## Integrantes del Equipo (Grupo G)
 
-* **LIDER:** YARA YULIANA GUTIERRES HURTADO
+* **LIDER:**:YARA YULIANA GUTIERRES HURTADO
 * INTEGRANTE: KEVIN GALEANO VARGAS
 * INTEGRANTE: MIGUEL ANGEL PEREZ DIAZ
 * INTEGRANTE: DIEGO KLEPER SUESCUN ZULUAGA 

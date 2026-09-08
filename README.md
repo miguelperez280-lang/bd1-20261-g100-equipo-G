@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pascualbravo.edu.co/acerca-del-pascual/simbolos-institucionales/" alt="Logo Pascual Bravo" width="280"/>
+  <img src="https://pascualbravo.edu.co/acerca-del-pascual/simbolos-institucionales/" alt="https://pascualbravo.edu.co/acerca-del-pascual/simbolos-institucionales/" width="280"/>
 
   # INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
   ### Programa: Tecnología en Desarrollo de Software  

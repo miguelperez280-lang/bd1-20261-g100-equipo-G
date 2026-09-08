@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="blob:https://gemini.google.com/cd013db4-e645-4d51-8d63-d0d1aae03621" alt="Logo Pascual Bravo" width="280"/>
+  <img src=""C:\Users\mike\Downloads\Gemini_Generated_Image_hgpj84hgpj84hgpj-removebg-preview.png"" alt="Logo Pascual Bravo" width="280"/>
 
   # INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
   ### Programa: Tecnología en Desarrollo de Software  

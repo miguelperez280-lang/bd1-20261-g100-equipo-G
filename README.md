@@ -1,1 +1,25 @@
-# bd1-20261-g100-equipo-G
+# INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
+### Programa: Tecnología en Desarrollo de Software  
+### Curso: Bases de Datos I (G052)  
+
+**Docente:** Jaime E. Soto U.  
+**Equipo:** Grupo G  
+
+---
+
+## Propósito del Repositorio
+
+Este repositorio alberga el desarrollo práctico, los artefactos de diseño y la documentación técnica del curso **Bases de Datos I**, orientados al análisis, modelado e implementación de sistemas de información.
+
+El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la definición e identificación de entidades, y el inventario y normalización de relaciones. Se abordan aspectos clave como la clasificación de cardinalidades (`1:1`, `1:N`, `M:N`), el establecimiento de reglas de negocio mediante verbos estandarizados y la depuración de redundancias estructurales. Cada directorio representa las entregas y casos de estudio asignados durante el periodo académico.
+
+---
+
+## Integrantes del Equipo (Grupo G)
+
+* **LIDER:** YARA YULIANA GUTIERRES HURTADO
+* INTEGRANTE: KEVIN GALEANO VARGAS
+* INTEGRANTE: MIGUEL ANGEL PEREZ DIAZ
+* INTEGRANTE: DIEGO 
+
+---

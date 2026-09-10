@@ -26,9 +26,9 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
 ---
 * INTEGRANTE: KEVIN GALEANO VARGAS* - <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/05d4e5fe-a80a-4da6-8a59-1cddff7df24f" />
 ---
-* INTEGRANTE: :YARA YULIANA GUTIERRES HURTADO* - <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/d0661257-4dc0-443f-b3ca-f325c66de04d" />
+* INTEGRANTE: :YARA YULIANA GUTIERRES HURTADO* --- <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/d0661257-4dc0-443f-b3ca-f325c66de04d" />
 ---
-* INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA* - <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/87635881-75af-41cd-8ec6-23ec1723d093" />
+* INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA* --- <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/87635881-75af-41cd-8ec6-23ec1723d093" />
 
 
 ---

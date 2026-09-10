@@ -22,6 +22,16 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
 ## Integrantes del Equipo (Grupo G)
 
 ---
+<table width="100%" border="0">
+  <tr>
+    <td align="center" valign="middle" width="70%">
+      <h3>LIDER: MIGUEL ANGEL PEREZ DIAZ</h3>
+    </td>
+    <td align="right" valign="middle" width="30%">
+    <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/fa171981-5607-43b0-8710-96bbf10b58f9" width="200" style="border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
 * **LIDER:**:MIGUEL ANGEL PEREZ DIAZ* - <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/fa171981-5607-43b0-8710-96bbf10b58f9" />
 ---<table width="100%" border="0">
   <tr>

@@ -28,6 +28,7 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
 ---
 * INTEGRANTE: :YARA YULIANA GUTIERRES HURTADO
 ---
-* INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA*   ![Foto inicial]("C:\Users\mike\Downloads\Foto.jpg")
+* INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA*  <img width="1379" height="1630" alt="Image" src="https://github.com/user-attachments/assets/87635881-75af-41cd-8ec6-23ec1723d093" />
+
 
 ---

@@ -22,11 +22,11 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
 ## Integrantes del Equipo (Grupo G)
 
 ---
-* **LIDER:**:MIGUEL ANGEL PEREZ DIAZ
+* **LIDER:**:MIGUEL ANGEL PEREZ DIAZ* <img width="1080" height="1456" alt="Image" src="https://github.com/user-attachments/assets/fa171981-5607-43b0-8710-96bbf10b58f9" />
 ---
-* INTEGRANTE: KEVIN GALEANO VARGAS
+* INTEGRANTE: KEVIN GALEANO VARGAS* <img width="1600" height="719" alt="Image" src="https://github.com/user-attachments/assets/05d4e5fe-a80a-4da6-8a59-1cddff7df24f" />
 ---
-* INTEGRANTE: :YARA YULIANA GUTIERRES HURTADO
+* INTEGRANTE: :YARA YULIANA GUTIERRES HURTADO* <img width="765" height="1280" alt="Image" src="https://github.com/user-attachments/assets/d0661257-4dc0-443f-b3ca-f325c66de04d" />
 ---
 * INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA*  <img width="1379" height="1630" alt="Image" src="https://github.com/user-attachments/assets/87635881-75af-41cd-8ec6-23ec1723d093" />
 

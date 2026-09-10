@@ -21,9 +21,13 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
 
 ## Integrantes del Equipo (Grupo G)
 
+---
 * **LIDER:**:MIGUEL ANGEL PEREZ DIAZ
+---
 * INTEGRANTE: KEVIN GALEANO VARGAS
+---
 * INTEGRANTE: :YARA YULIANA GUTIERRES HURTADO
-* INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA 
+---
+* INTEGRANTE: DIEGO KEPLER SUESCÚN ZULUAGA*   ![Foto inicial]("C:\Users\mike\Downloads\Foto.jpg")
 
 ---

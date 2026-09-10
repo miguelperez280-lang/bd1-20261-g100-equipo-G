@@ -61,7 +61,7 @@ El contenido comprende la elaboración de diagramas Entidad-Relación (E-R), la 
       <h3>INTEGRANTE:DIEGO KEPLER SUESCÚN ZULUAGA</h3>
     </td>
     <td align="right" valign="middle" width="40%">
-    <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/87635881-75af-41cd-8ec6-23ec1723d093"   width="200" style="border-radius: 8px;"/>
+    <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/87635881-75af-41cd-8ec6-23ec1723d093"   width="200" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
